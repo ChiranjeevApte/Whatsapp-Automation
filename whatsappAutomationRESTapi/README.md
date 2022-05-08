@@ -1,4 +1,4 @@
-# Whatsapp-Automation
+# WhatsApp-Automation-REST-API
 
 To Run this project, 
 
